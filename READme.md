@@ -18,10 +18,10 @@ This repository contains a GitHub Actions workflow for securely syncing a local 
 
 
 ## Application
-- [Github Actions and AWS Security Integration Diagram](images/aws-githubactions.drawio.png)
-- [IAM Policy](images/aws-iam-s3-policy.png)
-- [IAM Role](images/aws-bucket-trust-role.png)
-- [S3 Bucket](images/aws-s3-bucket.png)
+- Github Actions and AWS Security Integration Diagram![Github Actions and AWS Security Integration Diagram](images/aws-githubactions.drawio.png)
+- IAM Policy![IAM Policy](images/aws-iam-s3-policy.png)
+- IAM Role![IAM Role](images/aws-bucket-trust-role.png)
+- S3 Bucket![S3 Bucket](images/aws-s3-bucket.png)
 
 
 ## Resources
